@@ -1,0 +1,18 @@
+/* Viewport text motion. No DOM text splitting or changes to document layout. */
+#uf-home.text-reveal-enabled:not(.motion-paused) [data-scroll-text="pending"] {
+  opacity: 0;
+}
+/* The existing global motion switch is respected even before JS cleanup. */
+#uf-home.motion-paused [data-scroll-text],
+#uf-home:not(.text-reveal-enabled) [data-scroll-text] {
+  opacity: 1 !important;
+  clip-path: none !important;
+  transform: none !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  #uf-home [data-scroll-text] {
+    opacity: 1 !important;
+    clip-path: none !important;
+    transform: none !important;
+  }
+}

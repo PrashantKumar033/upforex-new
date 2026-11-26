@@ -36,3 +36,8 @@ Run local tests and production SSR build with the current project commands, veri
 - Port browser-only effects through Angular lifecycle hooks, guard with isPlatformBrowser, and destroy listeners/observers on component teardown. Do not introduce a blocking splash, or hide SSR page content from crawlers.
 - Reuse the existing review data and approved Trustpilot integration. Preserve the original footer, legal copy, existing SEO metadata, canonical/hreflang, language selection and routing.
 - The current chart remains illustrative. Use the existing live-data integration if needed; do not present demo prices as real.
+
+
+## Text reveal enhancement
+
+Port `text-reveal.css` and the logic in `text-reveal.js` into the homepage component, initializing only in the browser after rendering and cleaning up observers, event listeners and active Web Animations in component destruction. Preserve original SSR heading markup and translations. Initialize only when IntersectionObserver, CSS clip-path and Web Animations are supported. Avoid applying hidden styles on the server. Ensure the original motion control and reduced-motion preference remain connected.

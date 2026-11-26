@@ -34,3 +34,10 @@ Financial information in the chart and ticker is explicitly illustrative. No inv
 Chromium smoke tests at 1730, 1440, 1024, 768, 390 and 360 CSS pixels: zero JavaScript page errors, missing image assets or horizontal overflow. Tested desktop hover opening/switching/closing, moving into the dropdown, keyboard Enter/Escape, native mobile menus, pointer-follow hero, review tilt/reset, 24 market/timeframe combinations, review navigation and reduced-motion preference. Tests use the same source and assets loaded into an offline browser document. All 153 original static anchor references and the footer markup/CSS match the previous version. Production browser performance, live external destinations and Angular integration remain unverified.
 
 The preview is marked `noindex,nofollow` intentionally. It is for local/client review, not direct production deployment.
+
+
+## Viewport text reveal update
+
+Open `index.html` in Chrome or Edge and scroll. The original Premiere hero entrance remains unchanged. All ten principal section headings, selected card headings, section labels, supporting descriptions, and footer headings (47 elements) now reveal on first viewport entry. Headings use a graduated line mask and smooth lift; no heading text, breaks or emphasis markup is modified. The effect plays once per page load, honors reduced motion and the existing Pause motion control, and defaults to readable content when its optional enhancement is unavailable. Dynamic chart and review updates retain the existing animation system.
+
+Added `text-reveal.css` and `text-reveal.js`; the only change to `index.html` is loading these files. The prior `TEST_RESULTS.json` is the Premiere baseline; current targeted regression evidence is in `TEXT_REVEAL_TEST_RESULTS.json`. The tests used an offline Chromium document with the source and assets inlined, not a production Angular deployment.
