@@ -1,0 +1,145 @@
+{
+  "navigation": [
+    [
+      "Home",
+      [
+        [
+          "About Us",
+          "https://www.upforex.com/about-us"
+        ],
+        [
+          "Accounts",
+          "https://www.upforex.com/accounts"
+        ],
+        [
+          "MetaTrader 5 (MT5)",
+          "https://www.upforex.com/platforms/mt5"
+        ],
+        [
+          "Contact Us",
+          "https://www.upforex.com/contact-us"
+        ],
+        [
+          "Blogs",
+          "https://www.upforex.com/blogs"
+        ],
+        [
+          "Partnerships",
+          "https://www.upforex.com/partnerships"
+        ]
+      ]
+    ],
+    [
+      "Useful Links",
+      [
+        [
+          "Risk Disclosure",
+          "https://www.upforex.com/risk-disclosure"
+        ],
+        [
+          "Prevent Money Laundering",
+          "https://www.upforex.com/anti-money-laundering"
+        ],
+        [
+          "Privacy Policy",
+          "https://www.upforex.com/privacy-policy"
+        ],
+        [
+          "Legal Documents",
+          "https://www.upforex.com/legal-documents"
+        ],
+        [
+          "Introduction to Forex",
+          "https://www.upforex.com/resources/introduction-to-forex"
+        ],
+        [
+          "Trading Glossary",
+          "https://www.upforex.com/resources/trading-glossary"
+        ],
+        [
+          "Trading Rules",
+          "https://www.upforex.com/resources/trading-rules"
+        ],
+        [
+          "Contract Specifications",
+          "https://www.upforex.com/resources/contract-specifications"
+        ],
+        [
+          "Education Partners",
+          "https://www.upforex.com/partnerships/education-partners"
+        ],
+        [
+          "Social Trading",
+          "https://www.upforex.com/partnerships/social-trading"
+        ]
+      ]
+    ],
+    [
+      "Locations",
+      [
+        [
+          "UAE",
+          "https://www.upforex.com/forex-trading-abu-dhabi"
+        ],
+        [
+          "South Africa",
+          "https://www.upforex.com/forex-trading-south-africa"
+        ],
+        [
+          "Johannesburg",
+          "https://www.upforex.com/forex-trading-johannesburg"
+        ],
+        [
+          "Cape Town",
+          "https://www.upforex.com/forex-trading-cape-town"
+        ],
+        [
+          "Nairobi",
+          "https://www.upforex.com/forex-trading-nairobi"
+        ],
+        [
+          "Kuala Lumpur",
+          "https://www.upforex.com/forex-trading-kuala-lumpur"
+        ],
+        [
+          "Manila",
+          "https://www.upforex.com/forex-trading-manila"
+        ],
+        [
+          "Singapore",
+          "https://www.upforex.com/forex-trading-singapore"
+        ]
+      ]
+    ]
+  ],
+  "social": {
+    "Facebook": "https://www.facebook.com/UpforexGlobal",
+    "Instagram": "https://www.instagram.com/upforexglobal/",
+    "LinkedIn": "https://www.linkedin.com/company/upforex-ltd/",
+    "TikTok": "https://www.tiktok.com/@upforex.global"
+  },
+  "reviews": [
+    {
+      "title": "Very fantastic services even customer…",
+      "text": "Very fantastic services even customer help get on Sunday.",
+      "name": "Yuvraj singh Kachhawa",
+      "region": "Aug 10, 2026"
+    },
+    {
+      "title": "Best Broker used till Date",
+      "text": "This is by far the best broker that I have used for trading… 3 cheers to the Support team.",
+      "name": "Raviraj Singh Tomar",
+      "region": "Aug 10, 2026"
+    },
+    {
+      "title": "Very Good and reliable service",
+      "text": "Very Good and reliable service. I get support for my query on Sunday also. Very Fast.",
+      "name": "Umang Suthar",
+      "region": "Jun 22, 2026"
+    }
+  ],
+  "legal_text": [
+    "Mauritius UP Global Markets Ltd – Licensed by the Financial Services Commission (FSC) Mauritius as an Investment Dealer (Full Service Dealer, Excluding Underwriting) under License No. GB25204570. Address : 4th Floor, Docks 4, The Docks, Caudan, Port Louis, Mauritius United Arab Emirates (Affiliated Partner) UPFOREX Financial Services LLC is licensed and regulated by the UAE Capital Market Authority (CMA) under Category 5 – Arrangement & Advice, holding License No. 20200000350. Risk statement: An investment in derivatives may mean investors may lose an amount even greater than their original investment. Anyone wishing to invest in any of the products mentioned in www.upforex.com should seek their own financial or professional advice. Trading of securities, forex, stock market, commodities, may not be suitable for everyone and involves the risk of losing part or all of your money. Trading in the financial markets has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the markets. Don't invest and trade with money which you can't afford to lose. Forex trading is not allowed in some countries. Before investing your money, check whether forex trading is permitted in your country. You are strongly advised to obtain independent financial, legal and tax advice before proceeding with any currency or spot metals trade. Nothing in this site should be read or construed as constituting advice on the part of UP Global Markets Ltd or any of its affiliates, directors, officers or employees. Restricted Regions: UP Global Markets Ltd does not provide services for citizens/residents of the United States, India, Cuba, Iraq, Myanmar, North Korea, Sudan, Russia, Iran. The services of UP Global Markets Ltd are not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation. OR Information on this site is not directed at residents in any country or jurisdiction where such distribution or use would be contrary to local law or regulation."
+  ],
+  "source": "upload-to-gpt.zip; original layouts/social-menu and layouts/disclaimer"
+}

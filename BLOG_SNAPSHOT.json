@@ -1,0 +1,34 @@
+{
+  "verified_listing": "https://www.upforex.com/blogs",
+  "snapshot_date": "2026-11-26",
+  "note": "Static preview of the previously verified article snapshot. New local artwork is decorative, cropped from the approved design concept; article data/cover URLs remain unchanged. Use WebBlogService for production.",
+  "articles": [
+    {
+      "slug": "what-should-you-check-before-opening-an-account-on-an-otc-trading-platform-in-dubai",
+      "title": "What Should You Check Before Opening an Account on an OTC Trading Platform in Dubai?",
+      "category": "Education",
+      "date": "2026-11-26",
+      "image": "otc",
+      "desc": "A practical checklist for comparing regulation, fees, trading conditions and platform features.",
+      "cover": "https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1795671188228-898788242.png"
+    },
+    {
+      "slug": "what-should-you-look-for-in-a-metatrader-5-broker-in-dubai",
+      "title": "What Should You Look for in a MetaTrader 5 Broker in Dubai?",
+      "category": "MT5 Platform",
+      "date": "2026-11-24",
+      "image": "mt5",
+      "desc": "Explore the key platform tools, costs and account features worth checking before choosing a broker.",
+      "cover": "https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1795508262027-797459611.png"
+    },
+    {
+      "slug": "what-factors-influence-gold-and-silver-prices-in-the-global-market",
+      "title": "What Factors Influence Gold and Silver Prices in the Global Market?",
+      "category": "Education",
+      "date": "2026-11-19",
+      "image": "metals",
+      "desc": "Understand how interest rates, currency moves and supply and demand affect precious metal prices.",
+      "cover": "https://upforex-assets.s3.eu-north-1.amazonaws.com/uploads/image/1795079829773-388151961.jpg"
+    }
+  ]
+}
